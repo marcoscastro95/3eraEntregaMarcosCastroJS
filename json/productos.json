@@ -3,13 +3,13 @@
     "tipo": "Desmalezadora",
     "nombre": "Desmalezadora Shimaha 43cc",
     "precio": 5000,
-    "foto": "/media/desmalezadora shimaha.jpg"
+    "foto": "/media/desmalezadora.jpg"
 }, {
     "id": 2,
     "tipo": "Amoladora",
     "nombre": "Amoladora 4.5 Pretul",
     "precio": 1800,
-    "foto": "./media/amoladoraPR.jpg"
+    "foto": "./media/amoladorapr.jpg"
 }, {
     "id": 3,
     "tipo": "Amoladora",
